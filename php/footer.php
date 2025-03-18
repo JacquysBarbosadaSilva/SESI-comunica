@@ -15,11 +15,11 @@
     </div>
 
     <div class="redes_sociais">
-        <a  href="#"><img class="tamanho-icones" src="./img/icone-facebook.png" alt="Facebook"></a>
-        <a  href="#"><img class="tamanho-icones" src="./img/icone-instagram.png" alt="Instagram"></a>
-        <a  href="#"><img class="tamanho-icones" src="./img/icone-youtube.png" alt="YouTube"></a>
-        <a  href="#"><img class="tamanho-icones" src="./img/icone-linkedin.png" alt="LinkedIn"></a>
-        <a  href="#"><img class="tamanho-icones" src="./img/icone-x.png" alt="x"></a>
+        <a  href="https://www.facebook.com/sesisp/?locale=pt_BR"><img class="tamanho-icones" src="../img/icone-facebook.png" alt="Facebook"></a>
+        <a  href="https://www.instagram.com/sesisp/"><img class="tamanho-icones" src="../img/icone-instagram.png" alt="Instagram"></a>
+        <a  href="https://www.youtube.com/SesiSaoPauloOficial"><img class="tamanho-icones" src="../img/icone-youtube.png" alt="YouTube"></a>
+        <a  href="https://www.linkedin.com/company/sesisp/posts/?feedView=all"><img class="tamanho-icones" src="../img/icone-linkedin.png" alt="LinkedIn"></a>
+        <a  href="https://x.com/sesisaopaulo"><img class="tamanho-icones" src="../img/icone-x.png" alt="x"></a>
         
     </div>
 </footer>
